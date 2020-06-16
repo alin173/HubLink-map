@@ -1,0 +1,11 @@
+.select__control {
+  width: 250px;
+}
+
+.main {
+  margin-top: 0px !important;
+}
+
+.businessStatus {
+  text-transform: lowercase;
+}
